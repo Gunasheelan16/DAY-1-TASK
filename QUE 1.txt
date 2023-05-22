@@ -1,4 +1,4 @@
-what's the difference between Http1 and http2 ? 
+What's the difference between Http1 and http2 ? 
 HTTP 1:
         * It's a textual format
         * It compresses data by itself 
